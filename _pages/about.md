@@ -22,9 +22,10 @@ Electric propulsion systems are generally categorized into three types: thermoel
 
 Hall thrusters have been in use since the early days of space exploration. Despite their advantages—such as high specific impulse and efficient long-term operation—their broader application in large-scale missions has been limited, primarily due to the high cost and limited availability of xenon gas. As a result, significant research in the field has focused on identifying alternative propellants. These include other noble gases such as krypton and argon, condensable options like iodine, metals such as magnesium and bismuth, and even molecular gases including CO₂, O₂, and N₂. However, to date, no propellant has proven to be a fully viable substitute for xenon [2].
 
-![HallThruster](../images/HallThruster_TAL_svg.svg)
+#![HallThruster](../images/HallThruster_TAL_svg.svg)
 
-<img src="/Research/images/HallThruster_TAL_svg.svg" alt="Hall Thruster" style="max-width: 100%; height: auto;" />
+#<img src="/Research/images/HallThruster_TAL_svg.svg" alt="Hall Thruster" style="max-width: 100%; height: auto;" />
+<img src="/Research/images/HallThruster_TAL_svg.svg" alt="Hall Thruster" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: auto;" />
 
 
 
