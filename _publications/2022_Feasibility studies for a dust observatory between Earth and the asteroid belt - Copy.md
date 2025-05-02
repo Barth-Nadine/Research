@@ -9,6 +9,7 @@ venue: 'Acta Astronautica'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0094576522004490'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:Nm6nHUG7eK8J:scholar.google.com/&output=citation&scisdr=ClHVB8wzEJ2q2qD5rCU:AFWwaeYAAAAAaBT_tCUHSb1wOTrI8TnnaRz9Qp4&scisig=AFWwaeYAAAAAaBT_tA7jth7_k4TML4itD3Boy9o&scisf=4&ct=citation&cd=-1&hl=en'
 citation: 'Srama R, Klinkner S, Fugmann M, Lengowski M, Gläser J, Simolka J, Sommer M, Strack H, Acker D, Barth N, Eckstein S. and others. (2022)"Feasibility studies for a dust observatory between Earth and the asteroid belt." <i>Acta Astronautica</i>, 199, 36–44. https://doi.org/10.1016/j.actaastro.2022.06.022'
+layout: single
 ---
 
 Highlights

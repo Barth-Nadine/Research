@@ -7,6 +7,7 @@ venue: "UC-Berkeley Institute for Testing Science"
 date: 2013-03-01
 location: "Berkeley, CA, USA"
 published: false
+layout: single
 ---
 
 [More information here](http://exampleurl.com)

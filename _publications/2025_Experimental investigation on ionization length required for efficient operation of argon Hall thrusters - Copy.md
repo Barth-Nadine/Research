@@ -9,6 +9,7 @@ venue: 'THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES'
 paperurl: 'https://www.jstage.jst.go.jp/article/tjsass/68/1/68_T-23-51/_article'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:aX5v8RZwVe0J:scholar.google.com/&output=citation&scisdr=ClHVB8wzEJ2q2qEE3fk:AFWwaeYAAAAAaBUCxfkYX7o61BxGaVnkYJGQMoc&scisig=AFWwaeYAAAAAaBUCxWSDUBmNC0MeFxayX5ct0uM&scisf=4&ct=citation&cd=-1&hl=en'
 citation: 'Satpathy D, Sekine H, Barth N, Kawashima R, Komurasaki K, Koizumi H. Experimental investigation on ionization length required for efficient operation of argon Hall thrusters. Transactions of the Japan society for aeronautical and space sciences, 68(1), 12-18. 2025. '
+layout: single
 ---
 
 Highlights

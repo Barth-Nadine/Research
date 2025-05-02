@@ -7,6 +7,7 @@ excerpt: 'This work presents PICLas-based simulation results of a novel specular
 date: 2025-06-01
 venue: 'Springer Nature'
 citation: ': Barth N, Skalden J, Papavramidis K, Gutierrez E, Hild F, Beyer J, Pfeiffer M, Tietz R, Maier P, and Herdrich G. PICLas-based Intake Simulation Activities for the development of an ABEP Specular Intake. Accepted for publication at Springer Nature in April 2025.'
+layout: single
 ---
 
 Abstract: 

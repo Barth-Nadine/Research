@@ -7,6 +7,7 @@ excerpt: "This study presents a magnetohydrodynamic model to analyze the operati
 date: 2025-03-21
 venue: "Presented at the Asian Joint Conference on Propulsion and Power 2025"
 citation: 'Barth N, Suehiro T, Satpathy D, Lee J, Komurasaki K, Sekine H, Koizumi H. Magnetohydrodynamic Analysis of High Mass Flow Rate-Induced High-Density Plasma Hall Thruster Operation. Asian Joint Conference on Propulsion and Power (AJCPP).'
+layout: single
 ---
 
 Abstract:
