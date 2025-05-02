@@ -3,7 +3,7 @@ title: "Solar Activity Dependency of a Specular Intake for an ABEP System"
 collection: publications
 category: conferences
 permalink: /publication/2024-piclas-abep-intake-iepc
-excerpt: "This work presents DSMC simulations using PICLas to evaluate the performance of a specular intake for an Atmosphere-Breathing Electric Propulsion system."
+excerpt: 'This study investigates how solar activity affects the performance of a specular intake for ABEP in VLEO, using DSMC simulations to assess efficiency, pressure, and the validity of the hyperthermal assumption.'
 date: 2024-06-24
 venue: "38th International Electric Propulsion Conference (IEPC), 2024"
 citation: "Barth N; Skalden J; Papavramidis K; Hild F; Beyer J; Pfeiffer M; Tietz R; Herdrich G. Solar Activity Dependency of a Specular Intake for an ABEP System. 2024 at 38th International Electric Propulsion Conference (IEPC). 07/2024."
