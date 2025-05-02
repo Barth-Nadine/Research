@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D in Aerospace Engineering, University of Tokyo, 2027/09 (expected)
-* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
-*
+	* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
+
 * M.S. in Aerospace Engineering, University of Stuttgart, 2023/04 
-* Faculty of Aerospace Engineering and Geodesy - Specialization in Space Engineering and Numerical Simulation
-* Master’s Thesis: Simulation and experimental examination of direct solid propellant supply in a Hall thruster during exchange semester at the University of Tokyo - Komurasaki&Koizumi Laboratory
-*
+	* Faculty of Aerospace Engineering and Geodesy - Specialization in Space Engineering and Numerical Simulation
+	* Master’s Thesis: Simulation and experimental examination of direct solid propellant supply in a Hall thruster during exchange semester at the University of Tokyo - Komurasaki&Koizumi Laboratory
+
 * B.S. in Aerospace Engineering, University of Stuttgart, 2019/11
-* Faculty of Aerospace Engineering and Geodesy 
-* Bachelor Thesis: Investigation of the advantages of a three-stream turbine concept for heat management at MTU Aero Engines AG
-*
+	* Faculty of Aerospace Engineering and Geodesy 
+	* Bachelor Thesis: Investigation of the advantages of a three-stream turbine concept for heat management at MTU Aero Engines AG
+
 * Abitur equals GCE A-levels, Gottlieb-Daimler-School 2, 2015/05
-* Specialization Environmental Technology
-*
+	* Specialization Environmental Technology
+
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
 
 
