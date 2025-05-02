@@ -6,11 +6,6 @@ permalink: /publication/2025-abep-intake-simulation
 excerpt: 'This work presents PICLas-based simulation results of a novel specular intake geometry for Atmosphere-Breathing Electric Propulsion (ABEP) systems, supporting future design and optimization.'
 date: 2025-06-01
 venue: 'Springer Nature'
-#slidesurl: ''
-
-#paperurl: ''
-
-# bibtexurl: ''
 citation: ': Barth N, Skalden J, Papavramidis K, Gutierrez E, Hild F, Beyer J, Pfeiffer M, Tietz R, Maier P, and Herdrich G. PICLas-based Intake Simulation Activities for the development of an ABEP Specular Intake. Accepted for publication at Springer Nature in April 2025.'
 ---
 

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nadine Barth"
+title                    : "My Research"
 title_separator          : "-"
 name                     : &name "Nadine Barth"
 description              : &description "Researcher in electric space propulsion – specializing in Hall thrusters"
@@ -23,10 +23,10 @@ repository               : "barth-nadine/Research"
 author:
   # Biographic information
   avatar           : "JAXA_fern.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Nadine Barth"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Life is a journey, not a destination"
+  location         : "Japan"
   employer         : "University of Tokyo"
   uri              : # URL
   email            : "n.barth@al.t.u-tokyo.ac.jp" 

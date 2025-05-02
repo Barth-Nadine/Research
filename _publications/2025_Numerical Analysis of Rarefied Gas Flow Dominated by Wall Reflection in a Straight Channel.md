@@ -4,13 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-rarefied-wall-reflection
 excerpt: 'This study analyzes rarefied gas flow in straight channels using DSMC with the Cercignani-Lampis-Lord model, showing how wall reflection and inlet conditions influence exit velocity and density.'
-date: Under peer-review
+date: 2025
 venue: 'Vacuum'
-#slidesurl: ''
-
-#paperurl: ''
-
-# bibtexurl: ''
 citation: 'Lee J, Satpathy D, Kawashima R, Komurasaki K, Sekine H, Barth N, Koizumi H. Numerical Analysis of Rarefied Gas Flow Dominated by Wall Reflection in a Straight Channel'
 ---
 

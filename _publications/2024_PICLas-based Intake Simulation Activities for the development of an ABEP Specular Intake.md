@@ -6,7 +6,6 @@ permalink: /publication/2024-piclas-abep-intake
 excerpt: "This work presents DSMC simulations using PICLas to evaluate the performance of a specular intake for an Atmosphere-Breathing Electric Propulsion system."
 date: 2024-07-15
 venue: "33rd International Symposium on Rarefied Gas Dynamics (RGD), 2024"
-paperurl: ""
 citation: "Barth N, Skalden J, Papavramidis K, Hild F, Beyer J, Pfeiffer M, Tietz R, Gutierrez E, Maier P, and Herdrich G. PICLas-based Intake Simulation Activities for the development of an ABEP Specular Intake. 33rd International Symposium on Rarified Gas Dynamics (RGD). 07/2024."
 ---
 
