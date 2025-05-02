@@ -22,8 +22,9 @@ Electric propulsion systems are generally categorized into three types: thermoel
 
 Hall thrusters have been in use since the early days of space exploration. Despite their advantages—such as high specific impulse and efficient long-term operation—their broader application in large-scale missions has been limited, primarily due to the high cost and limited availability of xenon gas. As a result, significant research in the field has focused on identifying alternative propellants. These include other noble gases such as krypton and argon, condensable options like iodine, metals such as magnesium and bismuth, and even molecular gases including CO₂, O₂, and N₂. However, to date, no propellant has proven to be a fully viable substitute for xenon [2].
 
-![HallThruster](/images/HallThruster_TAL_svg.svg)
-<img src="../images/HallThruster_TAL_svg.svg" alt="Hall Thruster" style="max-width: 100%; height: auto;" />
+![HallThruster](../images/HallThruster_TAL_svg.svg)
+
+<img src="/Research/images/HallThruster_TAL_svg.svg" alt="Hall Thruster" style="max-width: 100%; height: auto;" />
 
 
 
@@ -32,4 +33,4 @@ This study investigates the use of argon as a propellant, due to its abundance, 
 $$ \eta_u=\dfrac{\dot{m}_i}{\dot{m}_A}=1-e^{(-L_i/λ_i)}.$$
 
 The objective of this research is to improve the $$\eta_u$$  of Argon Hall thrusters and, in doing so, increase the resulting thrust ($$T$$). This is pursued by decreasing $$\lambda_i$$ , which can be achieved by increasing the plasma density ($$n_e$$). The proposed approach involves reducing the thruster's channel cross-sectional area ($$A_c$$), thereby increasing the neutral particle density ($$n_n$$). This increase in density is expected to shift the thruster operation further into the MHD regime, enhancing the influence of the magnetic field and making the thrust more strongly dependent on the electromagnetic force.
-...
+...TBC
