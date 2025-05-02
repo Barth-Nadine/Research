@@ -2,7 +2,7 @@
 title: "University Sports Trainer"
 collection: teaching
 type: "Sports Training"
-permalink: /teaching/2015-ASL
+permalink: /teaching/2015-Trampolin
 venue: "University of Stuttgart - Hochschulsport"
 date: 2018-10-01
 location: "Stuttgart, Germany"
