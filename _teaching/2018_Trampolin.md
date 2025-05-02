@@ -4,9 +4,9 @@ collection: teaching
 type: "Sports Training"
 permalink: /teaching/2015-Trampolin
 venue: "University of Stuttgart - Hochschulsport"
+excerpt: "As a trampoline trainer for the university sports program, I was responsible for leading weekly training sessions for students of all experience levels."
 date: 2018-10-01
 location: "Stuttgart, Germany"
-excerpt: "As a trampoline trainer for the university sports program, I was responsible for leading weekly training sessions for students of all experience levels."
 layout: single
 ---
 
