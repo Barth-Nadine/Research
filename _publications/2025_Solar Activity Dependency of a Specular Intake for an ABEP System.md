@@ -7,6 +7,7 @@ excerpt: 'This study investigates how solar activity affects the performance of 
 date: 2025-06-01
 venue: 'Journal of Electric Propulsion'
 citation: 'Barth N; Skalden J; Papavramidis K; Hild F; Beyer J; Pfeiffer M; Tietz R; Herdrich G. Solar Activity Dependency of a Specular Intake for an ABEP System. '
+published: false
 ---
 
 Abstract: 
