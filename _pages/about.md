@@ -12,6 +12,8 @@ redirect_from:
 Test Test
 <img src="/images/HallThruster_TAL_svg.svg" alt="Hall Thruster Diagram" width="600" />
 
+<img src="/images/OralExam.jpg" alt="Hall Thruster Diagram" width="600" />
+
 **Space Propulsion Systems**
 ------
 For over 60 years, humanity has pursued space exploration to better understand the universe, and gain insights into our solar system. The majority of satellites in Earth orbit, primarily serving purposes such as telecommunications, Earth observation, and navigation. Despite technological advancements, most satellites in orbit (approximately 60–70%) still rely on chemical propulsion systems, which are relatively inefficient due to their limited mass-specific power density $$\alpha$$:
@@ -31,4 +33,4 @@ This study investigates the use of argon as a propellant, due to its abundance, 
 $$ \eta_u=\dfrac{\dot{m}_i}{\dot{m}_A}=1-e^{(-L_i/λ_i)}.$$
 
 The objective of this research is to improve the $$\eta_u$$  of Argon Hall thrusters and, in doing so, increase the resulting thrust ($$T$$). This is pursued by decreasing $$\lambda_i$$ , which can be achieved by increasing the plasma density ($$n_e$$). The proposed approach involves reducing the thruster's channel cross-sectional area ($$A_c$$), thereby increasing the neutral particle density ($$n_n$$). This increase in density is expected to shift the thruster operation further into the MHD regime, enhancing the influence of the magnetic field and making the thrust more strongly dependent on the electromagnetic force.
-
+...
