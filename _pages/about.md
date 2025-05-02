@@ -10,9 +10,9 @@ redirect_from:
 
 
 Test Test
-<img src="/images/HallThruster_TAL_svg.svg" alt="Hall Thruster Diagram" width="600" />
+<img src="../images/HallThruster_TAL.png" alt="Hall Thruster Diagram" width="600" />
 
-<img src="/images/OralExam.jpg" alt="Hall Thruster Diagram" width="600" />
+<img src="../images/OralExam.jpg" alt="Hall Thruster Diagram" width="600" />
 
 **Space Propulsion Systems**
 ------
