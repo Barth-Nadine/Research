@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Student Assistant for the Lecture Construction Elements 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2018-ILA
+venue: "Institute of Aircraft Propulsion Systems (University of Stuttgart, ILA)"
+date: 2018-10-01
+location: "Stuttgart, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Assistant – Construction Elements II (2018/10-2019/02)
 ======
+As a student assistant for the lecture Construction Elements II, I supported fellow students with their design assignments, answered technical questions, and provided guidance on solving problems related to CAD modeling. This role strengthened my communication skills and deepened my understanding of engineering design processes.
 
-Heading 2
-======
-
-Heading 3
-======
