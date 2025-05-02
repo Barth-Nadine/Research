@@ -11,11 +11,12 @@ redirect_from:
 
 Test Test
 ![HallThruster](/images/HallThruster_TAL_svg.svg)
-
+<img src="/images/HallThruster_TAL_svg.svg" alt="Hall Thruster Diagram" width="600" />
 
 **Space Propulsion Systems**
 ------
-For over 60 years, humanity has pursued space exploration to better understand the universe, and gain insights into our solar system. The majority of satellites in Earth orbit, primarily serving purposes such as telecommunications, Earth observation, and navigation. Despite technological advancements, most satellites in orbit (approximately 60–70%) still rely on chemical propulsion systems, which are relatively inefficient due to their limited mass-specific power density "α" :
+For over 60 years, humanity has pursued space exploration to better understand the universe, and gain insights into our solar system. The majority of satellites in Earth orbit, primarily serving purposes such as telecommunications, Earth observation, and navigation. Despite technological advancements, most satellites in orbit (approximately 60–70%) still rely on chemical propulsion systems, which are relatively inefficient due to their limited mass-specific power density $$\alpha$$:
+
 $$\alpha=\dfrac{P}{m}=\dfrac{1}{2} \dfrac{Fc_e}{m}=\dfrac{1}{2} ac_e$$
 
 Defining a mission involves determining the required change in velocity $$\Deltav$$ , which in turn defines the necessary exhaust velocity "c" _"e"  through the Tsiolkovsky rocket equation and the required acceleration "a"  via the kinematic equation. Given these constraints, the only parameter that can simultaneously increase both "c" _"e"  and "a"  is "α" . Electric propulsion systems typically exhibit higher "α"  values, making them especially advantageous for long-duration missions due to their lower propellant consumption and higher specific impulse. In recent years, there has been a clear trend toward the utilization of electric propulsion, driven in part by advances from companies such as SpaceX, Boeing, and Blue Origin. They have made significant progress in deploying satellite constellations and spacecraft utilizing electric propulsion technologies.
