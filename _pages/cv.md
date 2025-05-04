@@ -8,10 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 ----
+----
+
+
+
 
 Education
 ======
+----
 * Ph.D in Aerospace Engineering, University of Tokyo, 2027/09 (expected)
 	* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
 
@@ -28,10 +34,11 @@ Education
 
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
 
-----
+
 
 Work experience
 ======
+----
 * Institute of Space Systems (University of Stuttgart, IRS), Stuttgart
 	* 08/2023-03/2024: Research assistant
     * Duties includes: Research about ABEP Intake Design
@@ -70,10 +77,10 @@ Work experience
 	* 10/2018 – 09/2022: Trainer
     * Duties includes: Trainer of the university trampoline sports group and organization of competitions.
 
-----
 
 Skills
 ======
+----
 * Programming
 	* Python
 	* Fortran
@@ -97,6 +104,10 @@ Skills
 	* Japanese (N4)
 
 ----
+
+
+
+
 
 Publications
 ======
