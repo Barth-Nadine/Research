@@ -9,14 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-----
-----
-
 
 
 
 Education
-======
 ----
 * Ph.D in Aerospace Engineering, University of Tokyo, 2027/09 (expected)
 	* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
@@ -33,11 +29,11 @@ Education
 	* Specialization Environmental Technology
 
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
+
 ----
 
 
 Work experience
-======
 ----
 * Institute of Space Systems (University of Stuttgart, IRS), Stuttgart
 	* 08/2023-03/2024: Research assistant
@@ -76,11 +72,11 @@ Work experience
 * University sports trampoline, Stuttgart
 	* 10/2018 – 09/2022: Trainer
     * Duties includes: Trainer of the university trampoline sports group and organization of competitions.
+
 ----
 
 
 Skills
-======
 ----
 * Programming
 	* Python
@@ -103,6 +99,7 @@ Skills
 	* German
 	* English (TOEFL IBT 113)
 	* Japanese (N4)
+
 ----
 
 
@@ -110,13 +107,13 @@ Skills
 
 
 Publications
-======
+----
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Academic Presentations
-======
+----
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
