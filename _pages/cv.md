@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae / Resume"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,7 +33,7 @@ Education
 	* Specialization Environmental Technology
 
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
-
+----
 
 
 Work experience
@@ -76,6 +76,7 @@ Work experience
 * University sports trampoline, Stuttgart
 	* 10/2018 – 09/2022: Trainer
     * Duties includes: Trainer of the university trampoline sports group and organization of competitions.
+----
 
 
 Skills
@@ -102,7 +103,6 @@ Skills
 	* German
 	* English (TOEFL IBT 113)
 	* Japanese (N4)
-
 ----
 
 
@@ -120,4 +120,3 @@ Academic Presentations
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
- 
