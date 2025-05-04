@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ----
+
 Education
 ======
 * Ph.D in Aerospace Engineering, University of Tokyo, 2027/09 (expected)
@@ -28,6 +29,7 @@ Education
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
 
 ----
+
 Work experience
 ======
 * Institute of Space Systems (University of Stuttgart, IRS), Stuttgart
@@ -69,6 +71,7 @@ Work experience
     * Duties includes: Trainer of the university trampoline sports group and organization of competitions.
 
 ----
+
 Skills
 ======
 * Programming
@@ -94,6 +97,7 @@ Skills
 	* Japanese (N4)
 
 ----
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
