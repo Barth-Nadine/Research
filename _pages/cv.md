@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae / Resume"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
+----
 Education
 ======
 * Ph.D in Aerospace Engineering, University of Tokyo, 2027/09 (expected)
@@ -27,7 +27,7 @@ Education
 
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
 
-
+----
 Work experience
 ======
 * Institute of Space Systems (University of Stuttgart, IRS), Stuttgart
@@ -68,7 +68,7 @@ Work experience
 	* 10/2018 – 09/2022: Trainer
     * Duties includes: Trainer of the university trampoline sports group and organization of competitions.
 
-
+----
 Skills
 ======
 * Programming
@@ -90,19 +90,19 @@ Skills
 * LabVIEW
 * Languages
 	* German
-	* English (TOEFL IBT: 113)
+	* English (TOEFL IBT 113)
 	* Japanese (N4)
 
+----
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Academic Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-======
+ 
