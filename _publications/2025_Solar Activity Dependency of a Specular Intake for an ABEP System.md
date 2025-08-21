@@ -4,10 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-abep-solar-dependency
 excerpt: 'This study investigates how solar activity affects the performance of a specular intake for ABEP in VLEO, using DSMC simulations to assess efficiency, pressure, and the validity of the hyperthermal assumption.'
-date: 2025-06-01
+date: 2025-08-21
 venue: 'Journal of Electric Propulsion'
-citation: 'Barth N; Skalden J; Papavramidis K; Hild F; Beyer J; Pfeiffer M; Tietz R; Herdrich G. Solar Activity Dependency of a Specular Intake for an ABEP System. '
-published: false
+paperurl: 'https://link.springer.com/article/10.1007/s44205-025-00157-7'
+bibtexurl: 'https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=Solar+activity+dependency+of+a+specular+intake+for+an+ABEP+system&btnG='
+citation: 'Barth N, Skalden J, Papavramidis K, Tuttas F, Pfeiffer M, Beyer J, Tietz R, Fasoulas S, Herdrich G. Solar activity dependency of a specular intake for an ABEP System. Journal of Electric Propulsion. 2025 Aug 12;4(1):57.'
 layout: single
 ---
 
