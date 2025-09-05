@@ -7,7 +7,7 @@ excerpt: "DIANA is an autonomously deployable lunar base concept for long-durati
 date: 2022-07-01
 venue: "51st International Conference on Environmental Systems (ICES)"
 paperurl: "https://ttu-ir.tdl.org/items/8afde684-775c-4c36-8121-f3141d9cb142"
-bibtexurl: "https://scholar.googleusercontent.com/scholar.bib?q=info:u9on5HEfM1cJ:scholar.google.com/&output=citation&scisdr=ClHVB8wzEM3TvaMPYbs:AFWwaeYAAAAAaBUJebtmmfNu-NkRkGltDjfHotI&scisig=AFWwaeYAAAAAaBUJealx7VFLM183dwNimbkayhE&scisf=4&ct=citation&cd=-1&hl=en"
+bibtexurl: "https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=DIANA-Dedicated+Infrastructure+and+Architecture+for+Near-Earth+Astronautics&btnG="
 citation: "Acker D, Gutierrez E, Pippert A, Barth N, Böttger J, Diamond M, Kugic A, Palacios Calatayud J, Modi P, Krein V, Khan SA. DIANA-Dedicated Infrastructure and Architecture for Near-Earth Astronautics. 51st International Conference on Environmental Systems (ICES). 07/2022."
 layout: single
 ---
