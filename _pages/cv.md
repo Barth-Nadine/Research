@@ -11,36 +11,39 @@ redirect_from:
 
 
 
-
 Education
 ----
 * Ph.D in Aerospace Engineering, University of Tokyo, 2027/09 (expected)
 	* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
 
-* Participant at the International Space Weather Camp 2022, German Aerospace Center, 2022/06-07 
-	* German Aerospace Center Neustrelitz
+* Research student in Aerospace Engineering, University of Tokyo, 2024/04-10 
+	* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
+	* Conducted pre-doctoral research on Hall thruster magnetic field scaling and optimization, with a focus on adapting ex-sting designs for high-density operation and improved performance using alternative propellants.
+
+* Participant at the International Space Weather Camp 2022, German Aerospace Center Neustrelitz, 2022/06-07 
 	* Modeled space weather phenomena and analyzed their impact on satellite systems using simulation and data analysis.
 
-* Participant at the International Space Station Design Workshop 2021, Institute of Space Systems, 2021/10 
-	* Institute of Space Systems (University of Stuttgart, IRS) - Responsible for the design and integration of the propulsion system
+* Participant at the International Space Station Design Workshop 2021, Institute of Space Systems (University of Stuttgart, IRS), 2021/10 
 	* Collaborated in a team to design a crewed space station, applying systems engineering principles to integrate subsystems and conduct mission analysis within a one-week timeframe.
+	* Responsible for the design and integration of the propulsion system.
+	 
 
-* Participant at the Small Satellite Design Workshop 2021, Institute of Space Systems, 2020/10-2021/03 
-	* Institute of Space Systems (University of Stuttgart, IRS) - Led the propulsion system design, conducted mission analysis, and served as a general systems engineer, ensuring seamless integration of subsystems and alignment with mission objectives.
+* Participant at the Small Satellite Design Workshop 2021, Institute of Space Systems (University of Stuttgart, IRS), 2020/10-2021/03 
 	* Collaborated in a multidisciplinary team to design a small satellite mission, applying systems engineering principles to integrate subsystems such as power, communication, and payload.
+	* Led the propulsion system design, conducted mission analysis, and served as a general systems engineer, ensuring seamless integration of subsystems and alignment with mission objectives.
 
-* M.S. in Aerospace Engineering, University of Stuttgart, 2023/04 
+* M.S. in Aerospace Engineering, University of Stuttgart, 2020/04-2023/04 
 	* Faculty of Aerospace Engineering and Geodesy - Specialization in Space Engineering and Numerical Simulation
 	* Master’s Thesis: Simulation and experimental examination of direct solid propellant supply in a Hall thruster during exchange semester at the University of Tokyo - Komurasaki&Koizumi Laboratory
 
-* B.S. in Aerospace Engineering, University of Stuttgart, 2019/11
+* B.S. in Aerospace Engineering, University of Stuttgart, 2015/10-2019/11
 	* Faculty of Aerospace Engineering and Geodesy 
 	* Bachelor Thesis: Investigation of the advantages of a three-stream turbine concept for heat management at MTU Aero Engines AG
 
-* Abitur equals GCE A-levels, Gottlieb-Daimler-School 2, 2015/05
+* Abitur equals GCE A-levels, Gottlieb-Daimler-School 2, 09/2012-2015/05
 	* Specialization Environmental Technology
 
-* Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2012/05
+* Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2006/09-2012/05
 
 ----
 
