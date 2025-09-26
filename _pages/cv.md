@@ -15,6 +15,7 @@ Honors and Achievements
 * 2022: Selected as an exchange student at the University of Tokyo, Japan
 * 2024: Recipient of the MEXT Scholarship for PhD studies at the University of Tokyo
 * 2025: Recipient of an ESA Academy sponsorship to attend the International Electric Propulsion Conference in London
+
 ----
 
 Education
