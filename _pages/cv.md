@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
+Honors and Achievements
+----
+* 2015: Invited to a panel discussion with Apollo astronaut Al Worden
+* 2022: Selected as an exchange student at the University of Tokyo, Japan
+* 2024: Recipient of the MEXT Scholarship for PhD studies at the University of Tokyo
+* 2025: Recipient of an ESA Academy sponsorship to attend the International Electric Propulsion Conference in London
+----
 
 Education
 ----
@@ -19,18 +25,6 @@ Education
 * Research student in Aerospace Engineering, University of Tokyo, 2024/04-10 
 	* Graduate School of Engineering, Faculty of Aeronautics and Astronautics
 	* Conducted pre-doctoral research on Hall thruster magnetic field scaling and optimization, with a focus on adapting ex-sting designs for high-density operation and improved performance using alternative propellants.
-
-* Participant at the International Space Weather Camp 2022, German Aerospace Center Neustrelitz, 2022/06-07 
-	* Modeled space weather phenomena and analyzed their impact on satellite systems using simulation and data analysis.
-
-* Participant at the International Space Station Design Workshop 2021, Institute of Space Systems (University of Stuttgart, IRS), 2021/10 
-	* Collaborated in a team to design a crewed space station, applying systems engineering principles to integrate subsystems and conduct mission analysis within a one-week timeframe.
-	* Responsible for the design and integration of the propulsion system.
-	 
-
-* Participant at the Small Satellite Design Workshop 2021, Institute of Space Systems (University of Stuttgart, IRS), 2020/10-2021/03 
-	* Collaborated in a multidisciplinary team to design a small satellite mission, applying systems engineering principles to integrate subsystems such as power, communication, and payload.
-	* Led the propulsion system design, conducted mission analysis, and served as a general systems engineer, ensuring seamless integration of subsystems and alignment with mission objectives.
 
 * M.S. in Aerospace Engineering, University of Stuttgart, 2020/04-2023/04 
 	* Faculty of Aerospace Engineering and Geodesy - Specialization in Space Engineering and Numerical Simulation
@@ -44,6 +38,22 @@ Education
 	* Specialization Environmental Technology
 
 * Mittlere Reife equals GCE O-levels, Theodor-Schüz Secondary School, 2006/09-2012/05
+
+----
+
+Workshops & Specialized Training
+----
+* Participant at the International Space Weather Camp 2022, German Aerospace Center Neustrelitz, 2022/06-07 
+	* Modeled space weather phenomena and analyzed their impact on satellite systems using simulation and data analysis.
+
+* Participant at the International Space Station Design Workshop 2021, Institute of Space Systems (University of Stuttgart, IRS), 2021/10 
+	* Collaborated in a team to design a crewed space station, applying systems engineering principles to integrate subsystems and conduct mission analysis within a one-week timeframe.
+	* Responsible for the design and integration of the propulsion system.
+	 
+
+* Participant at the Small Satellite Design Workshop 2021, Institute of Space Systems (University of Stuttgart, IRS), 2020/10-2021/03 
+	* Collaborated in a multidisciplinary team to design a small satellite mission, applying systems engineering principles to integrate subsystems such as power, communication, and payload.
+	* Led the propulsion system design, conducted mission analysis, and served as a general systems engineer, ensuring seamless integration of subsystems and alignment with mission objectives.
 
 ----
 
