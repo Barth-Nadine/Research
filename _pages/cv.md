@@ -11,10 +11,12 @@ redirect_from:
 
 Honors and Achievements
 ----
-* 2015: Invited to a panel discussion with Apollo astronaut Al Worden
+* 2015: Invited panelist in a stage discussion alongside Apollo astronaut Al Worden
 * 2022: Selected as an exchange student at the University of Tokyo, Japan
+* 2022: Recipient of the PROMOS Scholarship for my exchange semester at the University of Tokyo, Japan
+* 2022: Recipient of the Hermann Reissner Scholarship for my exchange semester at the University of Tokyo, Japan
 * 2024: Recipient of the MEXT Scholarship for PhD studies at the University of Tokyo
-* 2025: Recipient of an ESA Academy sponsorship to attend the International Electric Propulsion Conference in London
+* 2025: Recipient of the ESA Academy sponsorship to attend the International Electric Propulsion Conference (IEPC) in London 2025
 
 ----
 
