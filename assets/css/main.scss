@@ -53,10 +53,10 @@
   top: 1.2em;
   left: 0;
 
-  min-width: 50vw;       /* fixed desktop width */
+  min-width: 1000px;       /* fixed desktop width */
   max-width: 90vw;    /* prevents overflow near screen edge */
-  min-height: 20vw;
-  max-height: 30vw;
+  min-height: 400px;
+  max-height: 500px;
   overflow-y: auto;
 
   background: white;
@@ -75,10 +75,10 @@
 @media (max-width: 768px) {
   .hover-abstract-box {
     width: 90vw !important;
-    min-width: 80vw !important;
-    max-width: 95vw !important;
+    min-width: 0 !important;
+    max-width: 450px !important;
 	z-index: 99999;
-	background: white;
+	background: white !important;
   }
 }
 
