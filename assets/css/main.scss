@@ -53,8 +53,10 @@
   top: 1.2em;
   left: 0;
 
-  min-width: 800px;
-  max-height: 300px;
+  width: 600px;       /* fixed desktop width */
+  max-width: 90vw;    /* prevents overflow near screen edge */
+  max-height: 220px;
+  overflow-y: auto;
 
   background: white;
   border: 1px solid #ddd;
@@ -66,13 +68,15 @@
 
   overflow-y: auto;   /* enables vertical scrolling */
   overflow-x: hidden; /* prevents sideways scrolling */
+  z-index: 999999;
 }
 
 @media (max-width: 768px) {
   .hover-abstract-box {
-    width: 90vw;      /* almost full screen width */
+    width: 85vw;      /* almost full screen width */
     max-height: 150px;
     left: 0;
+	z-index: 999999;
   }
 }
 
