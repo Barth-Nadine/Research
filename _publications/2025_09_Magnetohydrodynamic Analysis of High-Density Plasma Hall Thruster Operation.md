@@ -2,7 +2,7 @@
 title: "Magnetohydrodynamic Analysis of High-Density Plasma Hall Thruster Operation."
 collection: publications
 category: conferences
-permalink: /publication/2025-hall-thruster-mhd_paper
+permalink: /publication/2025-hall-thruster-mhd-beta
 excerpt: "This study presents a magnetohydrodynamic model to analyze the operation of Hall thrusters under high-density plasma conditions induced by increased mass flow densities, including a analysis of the Hall parameter to reduce Heat loads."
 date: 2025-09-18
 venue: "39th International Electric Propulsion Conference conference proceedings of ERPS (https://www.electricrocket.org/index.php?page=iepc-conferences)"

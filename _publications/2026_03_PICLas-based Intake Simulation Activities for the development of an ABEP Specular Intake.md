@@ -2,11 +2,11 @@
 title: "PICLas-based Intake Simulation Activities for the development of an ABEP Specular Intake"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-abep-intake-simulation
+permalink: /publication/2026-ABEP-intake-simulation
 excerpt: 'This work presents PICLas-based simulation results of a novel specular intake geometry for Atmosphere-Breathing Electric Propulsion (ABEP) systems, supporting future design and optimization.'
-date: 2025-06-01
+date: 2026-03-01
 venue: 'Springer Nature'
-citation: ': Barth N, Skalden J, Papavramidis K, Gutierrez E, Hild F, Beyer J, Pfeiffer M, Tietz R, Maier P, and Herdrich G. PICLas-based Intake Simulation Activities for the development of an ABEP Specular Intake. Accepted for publication at Springer Nature in April 2025.'
+citation: 'Barth N, Skalden J, Papavramidis K, Gutierrez E, Hild F, Beyer J, Pfeiffer M, Tietz R, Maier P, and Herdrich G. (2026, March). Activities for the Development of an ABEP Specular Intake. In Rarefied Gas Dynamics: Proceedings of the 33rd International Symposium (p. 203). Springer Nature.
 layout: single
 ---
 
