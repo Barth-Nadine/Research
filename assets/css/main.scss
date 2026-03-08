@@ -73,13 +73,10 @@
 
 @media (max-width: 768px) {
   .hover-abstract-box {
-    width: 50vw;      /* almost full screen width */
-	min-width: 0;      /* remove desktop minimum */
-	max-width: 50vw;
-    max-height: 220px;
-	overflow-y: auto;
-    left: 0;
-	z-index: 999999;
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    background: red;
   }
 }
 
