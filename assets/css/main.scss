@@ -48,7 +48,7 @@
 }
 
 .hover-abstract-box {
-  display: none;
+  display: none !important;
   position: absolute;
   width: 320px;
   background: #ffffff;
