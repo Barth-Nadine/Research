@@ -26,11 +26,19 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-    {% if post.link %}
-	  <a href="{{ post.link }}">{{ title }}</a>
+	{% if post.link %}
+	  <span class="hover-abstract">
+		<a href="{{ post.link }}">{{ title }}</a>
+
+		<div class="hover-abstract-box">
+		  {{ post.abstract | strip_html }}
+		</div>
+	  </span>
+
 	  <a href="{{ base_path }}{{ post.url }}" rel="permalink">
 		<i class="fa fa-link" aria-hidden="true" title="permalink"></i>
 	  </a>
+
 	{% else %}
 	  <span class="hover-abstract">
 		<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
