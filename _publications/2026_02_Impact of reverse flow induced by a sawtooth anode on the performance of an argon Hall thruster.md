@@ -7,6 +7,7 @@ excerpt: 'Performance comparison of straight and sawtooth hollow anodes in the R
 date: 2026-02-23
 venue: 'J. Appl. Phys. 139'
 paperurl: 'https://pubs.aip.org/aip/jap/article/139/8/083303/3380939'
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:1S0wP6qTjkIJ:scholar.google.com/&output=citation&scisdr=Cl8sLAYzEOrHoGEmYOY:AFtJQiwAAAAAaa0geOZiUoUvV-UA1GtjyfULJP4&scisig=AFtJQiwAAAAAaa0geD50KGVuwFl3WlRkIuvCT9w&scisf=4&ct=citation&cd=-1&hl=de'
 citation: 'Satpathy, D., Komurasaki, K., Lee, J., Sekine, H., Barth, N., & Koizumi, H. (2026). Impact of reverse flow induced by a sawtooth anode on the performance of an argon Hall thruster. Journal of Applied Physics, 139(8).'
 published: true
 layout: single

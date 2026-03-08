@@ -9,6 +9,7 @@ venue: "39th International Electric Propulsion Conference conference proceedings
 paperurl: "https://www.researchgate.net/publication/395590478_Magnetohydrodynamic_Analysis_of_High-Density_Plasma_Hall_Thruster_Operation"
 citation: 'Barth, N., Komurasaki, K., Satpathy, D., Lee, J., Sekine, H., & Koizumi, H. Magnetohydrodynamic Analysis of High-Density Plasma Hall Thruster Operation. In 39th International Electric Propulsion Conference, Imperial College London, London, United Kingdom. 2025, September.'
 layout: single
+
 ---
 
 Abstract:
