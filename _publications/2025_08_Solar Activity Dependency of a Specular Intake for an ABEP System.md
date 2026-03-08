@@ -7,16 +7,7 @@ excerpt: 'This study investigates how solar activity affects the performance of 
 date: 2025-08-21
 venue: 'Journal of Electric Propulsion'
 paperurl: 'https://link.springer.com/article/10.1007/s44205-025-00157-7'
-bibtexurl: '@article{barth2025solar,
-  title={Solar activity dependency of a specular intake for an ABEP system},
-  author={Barth, Nadine and Skalden, Jonathan and Papavramidis, Konstantinos and Tuttas, Franziska and Pfeiffer, Marcel and Beyer, Julian and Tietz, Raphael and Fasoulas, Stefanos and Herdrich, Georg},
-  journal={Journal of Electric Propulsion},
-  volume={4},
-  number={1},
-  pages={57},
-  year={2025},
-  publisher={Springer}
-}'
+bibtexurl: https://scholar.googleusercontent.com/scholar.bib?q=info:6W73TlVGQV0J:scholar.google.com/&output=citation&scisdr=Cl8sLAYzEOrHoGEbGZQ:AFtJQiwAAAAAaa0dAZQRwMDpXq-ACcVa4WvvNzA&scisig=AFtJQiwAAAAAaa0dAe1fLtuHfYMzLWVd6u3gHR0&scisf=4&ct=citation&cd=-1&hl=de
 citation: 'Barth N, Skalden J, Papavramidis K, Tuttas F, Pfeiffer M, Beyer J, Tietz R, Fasoulas S, Herdrich G. Solar activity dependency of a specular intake for an ABEP System. Journal of Electric Propulsion. 2025 Aug 12;4(1):57.'
 published: true
 layout: single
