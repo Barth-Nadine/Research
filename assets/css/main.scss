@@ -48,25 +48,19 @@
 }
 
 .hover-abstract-box {
-  display: none !important;
+  display: none;
   position: absolute;
-  width: 320px;
-  background: #ffffff;
-  color: #333;
-  text-align: left;
-  padding: 12px;
-  border-radius: 6px;
-  border: 1px solid #ddd;
-
-  z-index: 1000;
-  top: 120%;
+  top: 1.2em;
   left: 0;
-
-  box-shadow: 0px 4px 14px rgba(0,0,0,0.15);
-  font-size: 0.9em;
-  line-height: 1.4;
+  width: 320px;
+  background: white;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 6px;
+  z-index: 9999;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-.hover-abstract:hover > .hover-abstract-box {
+.hover-abstract:hover .hover-abstract-box {
   display: block;
 }
