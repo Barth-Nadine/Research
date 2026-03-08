@@ -27,29 +27,21 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
+	<span class="hover-abstract">
 	{% if post.link %}
-	  <span class="hover-abstract">
-		<a href="{{ post.link }}">{{ title }}</a>
-
-		<div class="hover-abstract-box">
-		  {{ post.abstract | strip_html }}
-		</div>
-	  </span>
-
+	  <a href="{{ post.link }}">{{ title }}</a>
 	  <a href="{{ base_path }}{{ post.url }}" rel="permalink">
 		<i class="fa fa-link" aria-hidden="true" title="permalink"></i>
 	  </a>
-
 	{% else %}
-	  <span class="hover-abstract">
-		<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-
-		<div class="hover-abstract-box">
-		  {{ post.abstract | strip_html }}
-		</div>
-
-	  </span>
+	  <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
 	{% endif %}
+
+	<div class="hover-abstract-box">
+	  {{ post.abstract | strip_html }}
+	</div>
+
+	</span>
     </h2>
     
     {% if post.read_time %}
