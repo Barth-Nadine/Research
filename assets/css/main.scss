@@ -68,5 +68,14 @@
 }
 
 .archive__item {
-  overflow: visible;
+  overflow: visible !important;
+}
+
+.archive {
+  overflow: visible !important;
+}
+
+.page__content {
+  position: relative;
+  z-index: 10;
 }
