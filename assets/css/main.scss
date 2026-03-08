@@ -41,3 +41,35 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.hover-abstract {
+  position: relative;
+  display: inline-block;
+}
+
+.hover-abstract-box {
+  visibility: hidden;
+  opacity: 0;
+  width: 320px;
+  background: #ffffff;
+  color: #333;
+  text-align: left;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+
+  position: absolute;
+  z-index: 1000;
+  top: 120%;
+  left: 0;
+
+  box-shadow: 0px 4px 14px rgba(0,0,0,0.15);
+  transition: opacity 0.2s;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+.hover-abstract:hover .hover-abstract-box {
+  visibility: visible;
+  opacity: 1;
+}
