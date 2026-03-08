@@ -45,7 +45,6 @@
 .hover-abstract {
   position: relative;
   display: inline-block;
-  z-index: 1000;
 }
 
 .hover-abstract-box {
@@ -66,4 +65,8 @@
 
 .hover-abstract:hover .hover-abstract-box {
   display: block;
+}
+
+.archive__item {
+  overflow: visible;
 }
