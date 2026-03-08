@@ -36,7 +36,7 @@
 		<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
 
 		<div class="hover-abstract-box">
-		  TEST ABSTRACT
+		  {{ post.abstract | strip_html }}
 		</div>
 
 	  </span>
