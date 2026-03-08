@@ -7,7 +7,7 @@ excerpt: 'This work presents PICLas-based simulation results of a novel specular
 date: 2026-03-01
 venue: 'Springer Nature'
 paperurl: 'https://books.google.de/books?hl=en&lr=lang_en&id=OSDFEQAAQBAJ&oi=fnd&pg=PA202&ots=xzqakcCszy&sig=6VUUp10gpnLs5oo1McLs6yzoeg8#v=onepage&q&f=false'
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:ggDg2wJz0vcJ:scholar.google.com/&output=citation&scisdr=Cl8sLAYzEOrHoGEmhhM:AFtJQiwAAAAAaa0gnhNG3XpIxyWqtOKL6g6SCKQ&scisig=AFtJQiwAAAAAaa0gnnzEIwYJ8NsvW5frvvN2sGE&scisf=4&ct=citation&cd=-1&hl=de'
+bibtexurl: '/Research/files/2026-ABEP-intake-simulation.bib'
 citation: 'Barth N, Skalden J, Papavramidis K, Gutierrez E, Hild F, Beyer J, Pfeiffer M, Tietz R, Maier P, and Herdrich G. (2026, March). Activities for the Development of an ABEP Specular Intake. In Rarefied Gas Dynamics: Proceedings of the 33rd International Symposium (p. 203). Springer Nature.'
 published: true
 layout: single
