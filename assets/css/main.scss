@@ -53,7 +53,7 @@
   top: 1.2em;
   left: 0;
 
-  width: 600px;       /* fixed desktop width */
+  min-width: 900px;       /* fixed desktop width */
   max-width: 90vw;    /* prevents overflow near screen edge */
   max-height: 220px;
   overflow-y: auto;
@@ -74,7 +74,9 @@
 @media (max-width: 768px) {
   .hover-abstract-box {
     width: 85vw;      /* almost full screen width */
-    max-height: 150px;
+	max-width: 90vw;
+    max-height: 220px;
+	overflow-y: auto;
     left: 0;
 	z-index: 999999;
   }
