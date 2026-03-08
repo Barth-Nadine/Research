@@ -53,7 +53,7 @@
   top: 1.2em;
   left: 0;
 
-  min-width: 1000px;       /* fixed desktop width */
+  min-width: 600px;       /* fixed desktop width */
   max-width: 90vw;    /* prevents overflow near screen edge */
   min-height: 400px;
   max-height: 500px;
@@ -77,6 +77,8 @@
     width: 90vw !important;
     min-width: 0 !important;
     max-width: 450px !important;
+	min-height: 400px;
+	max-height: 500px;
 	z-index: 99999;
 	background: white !important;
   }
