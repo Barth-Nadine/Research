@@ -7,7 +7,7 @@ excerpt: 'This paper presents feasibility studies for deploying a space-based du
 date: 2022-11-01
 venue: 'Acta Astronautica'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0094576522004490'
-bibtexurl: 'https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=Feasibility+studies+for+a+dust+observatory+between+Earth+and+the+asteroid+belt+&btnG='
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:Nm6nHUG7eK8J:scholar.google.com/&output=citation&scisdr=Cl8sLAYzEOrHoGEkBKE:AFtJQiwAAAAAaa0iHKG_2fvVUtSd2EcLokBon-4&scisig=AFtJQiwAAAAAaa0iHK_4zg2afrJczSLeNqtVHpQ&scisf=4&ct=citation&cd=-1&hl=en'
 citation: 'Srama R, Klinkner S, Fugmann M, Lengowski M, Gläser J, Simolka J, Sommer M, Strack H, Acker D, Barth N, Eckstein S. and others. (2022)"Feasibility studies for a dust observatory between Earth and the asteroid belt." <i>Acta Astronautica</i>, 199, 36–44. https://doi.org/10.1016/j.actaastro.2022.06.022'
 published: true
 layout: single
