@@ -2,7 +2,7 @@
 title: "DIANA-Dedicated Infrastructure and Architecture for Near-Earth Astronautics"
 collection: publications
 category: conferences
-permalink: /publication/2024-diana-lunar-base
+permalink: /publication/2022-diana-lunar-base
 excerpt: "DIANA is an autonomously deployable lunar base concept for long-duration crewed missions on the Moon's surface, focusing on sustainability, ISRU, and scientific exploration."
 date: 2022-07-01
 venue: "51st International Conference on Environmental Systems (ICES) Conference Proceedings"
