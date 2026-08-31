@@ -104,7 +104,7 @@ comparable discharge powers. In particular, the high-density configuration produ
 Figure 3: Comparison of the thrust-to-power ratio of RAIJIN30 (R30) and RAIJIN66 (R66) as a function of specific impulse. RAIJIN30 generally achieves a higher thrust-to-power ratio than RAIJIN66 across 
 the investigated operating range. The green and orange trend lines correspond to different propellant mass-flow densities, illustrating the performance improvement obtained by increasing the propellant density.
 
-The experimental results show that RAIJIN30 achieved up to approximately 25% higher thrust at comparable discharge power, while the anode efficiency improved by approximately 52% compared with RAIJIN66. 
+The experimental results show that RAIJIN30 achieved higher thrust at comparable discharge power, while also improving anode efficiency compared with RAIJIN66. 
 The increased thrust-to-power ratio demonstrates the potential of high-density operation to improve the performance of argon Hall thrusters.
 
 These experiments provide an experimental basis for investigating high-density operation and the increasing influence of magnetic fields and MHD effects in Hall thrusters. RAIJIN30 also provides a 
