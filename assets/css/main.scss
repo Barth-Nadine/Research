@@ -73,14 +73,11 @@
 }
 
 @media (max-width: 768px) {
-  .hover-abstract-box {
-    width: 90vw !important;
-    min-width: 0 !important;
-    max-width: 450px !important;
-	min-height: 400px;
-	max-height: 500px;
-	z-index: 99999;
-	background: white !important;
+  /* Touch "hover" has no real off-state, so the abstract box would stay stuck
+     open after a tap instead of acting as a preview - disable it on phones
+     and let a tap on the title go straight to the publication page. */
+  .hover-abstract:hover .hover-abstract-box {
+    display: none !important;
   }
 }
 
