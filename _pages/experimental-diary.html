@@ -1,0 +1,152 @@
+---
+layout: archive
+permalink: /experimental-diary/
+title: "Experimental Diary"
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.posts %}
+
+<p>A running log of what experimental life in the lab actually looks like &mdash; written for students curious about what this kind of work involves day to day.</p>
+
+{% if entries.size == 0 %}
+  <p><em>The first entry is on its way &mdash; check back soon.</em></p>
+{% else %}
+
+  {% assign featured = entries.first %}
+
+  <a class="diary-hero" href="{{ base_path }}{{ featured.url }}">
+    {% if featured.header.video %}
+      {% if featured.header.video contains "://" %}
+        {% assign video_src = featured.header.video %}
+      {% else %}
+        {% assign video_src = featured.header.video | prepend: "/media/diary/" | prepend: base_path %}
+      {% endif %}
+      {% if featured.header.teaser %}
+        {% if featured.header.teaser contains "://" %}
+          {% assign poster_src = featured.header.teaser %}
+        {% else %}
+          {% assign poster_src = featured.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
+        {% endif %}
+      {% endif %}
+      <video class="diary-hero__media" muted loop playsinline preload="metadata"
+        {% if poster_src %}poster="{{ poster_src }}"{% endif %}>
+        <source src="{{ video_src }}" type="video/mp4">
+      </video>
+    {% elsif featured.header.teaser %}
+      {% if featured.header.teaser contains "://" %}
+        {% assign img_src = featured.header.teaser %}
+      {% else %}
+        {% assign img_src = featured.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
+      {% endif %}
+      <img class="diary-hero__media" src="{{ img_src }}" alt="{{ featured.title | markdownify | strip_html }}">
+    {% endif %}
+
+    <div class="diary-hero__caption">
+      <span class="diary-hero__tag">Latest entry &middot; {{ featured.date | date: "%B %d, %Y" }}</span>
+      <h2>{{ featured.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
+      <p>{{ featured.excerpt | strip_html | truncatewords: 40 }}</p>
+      <span class="diary-hero__cta">Read the full entry &rarr;</span>
+    </div>
+  </a>
+
+  {% if entries.size > 1 %}
+    <div class="diary-grid">
+      {% for post in entries offset: 1 %}
+        <a class="diary-card" href="{{ base_path }}{{ post.url }}">
+          {% if post.header.teaser %}
+            {% if post.header.teaser contains "://" %}
+              {% assign card_img = post.header.teaser %}
+            {% else %}
+              {% assign card_img = post.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
+            {% endif %}
+            <div class="diary-card__media" style="background-image:url('{{ card_img }}');"></div>
+          {% endif %}
+          <div class="diary-card__body">
+            <span class="diary-card__date">{{ post.date | date: "%B %d, %Y" }}</span>
+            <h3>{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</h3>
+            <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+{% endif %}
+
+<style>
+  .diary-hero {
+    position: relative;
+    display: block;
+    margin: 1.5em 0 2.5em;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #111;
+    color: inherit;
+    text-decoration: none;
+  }
+  .diary-hero__media {
+    display: block;
+    width: 100%;
+    max-height: 480px;
+    object-fit: cover;
+  }
+  .diary-hero__caption {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    padding: 1.5em;
+    background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0));
+    color: #fff;
+  }
+  .diary-hero__caption h2 { color: #fff; margin: 0.2em 0; }
+  .diary-hero__tag {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.85;
+  }
+  .diary-hero__caption p { margin: 0.3em 0; opacity: 0.9; }
+  .diary-hero__cta { font-weight: bold; }
+
+  .diary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.5em;
+  }
+  .diary-card {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .diary-card__media {
+    height: 160px;
+    background-size: cover;
+    background-position: center;
+  }
+  .diary-card__body { padding: 1em; }
+  .diary-card__date {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.7;
+  }
+  .diary-card__body h3 { margin: 0.3em 0; }
+</style>
+
+<script>
+  (function () {
+    var hero = document.querySelector('.diary-hero__media');
+    if (!hero || hero.tagName !== 'VIDEO') return;
+    var play = function () { hero.play(); };
+    var reset = function () { hero.pause(); hero.currentTime = 0; };
+    hero.addEventListener('mouseenter', play);
+    hero.addEventListener('mouseleave', reset);
+    hero.addEventListener('touchstart', function () {
+      if (hero.paused) { play(); } else { reset(); }
+    }, { passive: true });
+  })();
+</script>
