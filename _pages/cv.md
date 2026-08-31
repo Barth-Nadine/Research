@@ -84,22 +84,25 @@ Work experience
 	* 04/2018 – 03/2019: Internship+Bachelor thesis
     * Duties includes: Development cost analysis of aeroengines, programming in FORTRAN, Thesis: investigation of the advantages of a three-stream turbine concept for heat management
 
-* Institute of Aircraft Propulsion Systems (University of Stuttgart, ILA), Stuttgart
-	* 10/2018-02/2019: Student assistant
-    * Duties includes: Supporting other students during construction task
-	* Supervisor: Professor Stephan Staudacher
-  
 * Porsche AG, Weissach
 	* 06/2016 – 09/2017: Student assistant
     * Duties includes: Data management with Excel and research about RFID management
 
 * AEROSPACELAB - Youth Research Center, Herrenberg
 	* 10/2015 – 09/2022: Volunteer supervision of robotics group
-    * Duties includes: Mentoring of a group of young students in building LEGO EV3 robots and participating in robotics competitions. Introduction to the basics of electronics and programming basics with Arduino-uno sets. Representation of the AEROSPACELAB at events
+    * Duties includes: Mentoring a group of young students in the Girls Robotics program, building LEGO EV3 robots and preparing for the FIRST LEGO League and World Robot Olympiad competitions. Introduction to electronics and programming fundamentals using Arduino Uno kits.
+	* Represented AEROSPACELAB at public events, including a panel discussion at the Space Conference Stuttgart (2015), Science Day at the University of Stuttgart, "Meet an Astronaut", the German Aerospace Congress (DLRK) in Stuttgart, DLR Open House Day, and the first German CANSAT Competition.
+	* [AEROSPACE LAB homepage](https://aerospace-lab.de/menue_projekte/#robotik)
+
+* Institute of Aircraft Propulsion Systems (University of Stuttgart, ILA), Stuttgart
+	* 10/2018-02/2019: Student assistant
+    * Duties includes: Supporting fellow students with design assignments and CAD modeling questions for the lecture "Construction Elements II"
+	* Supervisor: Professor Stephan Staudacher
 
 * University sports trampoline, Stuttgart
 	* 10/2018 – 09/2022: Trainer
-    * Duties includes: Trainer of the university trampoline sports group and organization of competitions.
+    * Duties includes: Leading weekly training sessions for students of all experience levels, teaching jumping and landing technique, and organizing internal events and competition participation.
+	* [Trampolin-Homepage](https://trampolin.hg.stuvus.uni-stuttgart.de/)
 
 ----
 
