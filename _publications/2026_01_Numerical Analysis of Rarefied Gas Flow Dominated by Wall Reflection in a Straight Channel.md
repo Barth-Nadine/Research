@@ -7,7 +7,7 @@ excerpt: 'This study analyzes rarefied gas flow in straight channels using DSMC 
 date: 2026-01-01
 venue: 'Vacuum'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0042207X25009200'
-bibtexurl: '/Research/files/2025-hall-thruster-mhd-beta.bib'
+bibtexurl: '/Research/files/2025-rarefied-wall-reflection.bib'
 citation: 'Lee, J., Satpathy, D., Kawashima, R., Komurasaki, K., Sekine, H., Barth, N., & Koizumi, H. (2026). Numerical analysis of rarefied gas flow dominated by wall reflection in a straight channel. Vacuum, 244(Part B), 114930. https://doi.org/10.1016/j.vacuum.2025.114930'
 published: true
 layout: single

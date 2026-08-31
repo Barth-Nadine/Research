@@ -28,7 +28,7 @@ Figure 1: The diagram illustrates the key components and physical processes with
 
 **High Density Argon Hall Thruster**
 ------
-This study investigates the use of argon as a propellant, due to its abundance, low cost, and potential to make space travel more economically accessible. A major drawback of argon, however, is its low propellant utilization efficiency ($$\eta_u$$), which can be approximated by the ratio of the ion mass flow rate ($$\dot{m}_i$$) to the total propellant mass flow rate ($$\dot{m)_a$$), or alternatively, by the relationship between the ionization region length ($$L_i$$) and the ionization mean free path ($$\lambda_i$$), as shown below:
+This study investigates the use of argon as a propellant, due to its abundance, low cost, and potential to make space travel more economically accessible. A major drawback of argon, however, is its low propellant utilization efficiency ($$\eta_u$$), which can be approximated by the ratio of the ion mass flow rate ($$\dot{m}_i$$) to the total propellant mass flow rate ($$\dot{m}_A$$), or alternatively, by the relationship between the ionization region length ($$L_i$$) and the ionization mean free path ($$\lambda_i$$), as shown below:
 
 $$ \eta_u=\dfrac{\dot{m}_i}{\dot{m}_A}=1-e^{(-L_i/λ_i)}.$$
 
