@@ -6,7 +6,7 @@ permalink: /publication/2025-hall-thruster-mhd-beta
 excerpt: "This study presents a magnetohydrodynamic model to analyze the operation of Hall thrusters under high-density plasma conditions induced by increased mass flow densities, including a analysis of the Hall parameter to reduce Heat loads."
 date: 2025-09-18
 venue: "39th International Electric Propulsion Conference conference proceedings of ERPS"
-paperurl: "https://www.researchgate.net/publication/395590478_Magnetohydrodynamic_Analysis_of_High-Density_Plasma_Hall_Thruster_Operation"
+paperurl: "/Research/files/2025-hall-thruster-mhd-beta.pdf"
 bibtexurl: '/Research/files/2025-hall-thruster-mhd-beta.bib'
 citation: 'Barth, N., Komurasaki, K., Satpathy, D., Lee, J., Sekine, H., & Koizumi, H. Magnetohydrodynamic Analysis of High-Density Plasma Hall Thruster Operation. In 39th International Electric Propulsion Conference, Imperial College London, London, United Kingdom. 2025, September.'
 layout: single
