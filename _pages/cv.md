@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+
 Honors and Achievements
 ----
 * 2015: Invited panelist in a stage discussion alongside Apollo astronaut Al Worden
