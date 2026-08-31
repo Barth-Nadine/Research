@@ -4,7 +4,7 @@ date: 2024-01-01
 excerpt: "One or two sentences summarizing the entry - this is what shows in the diary list and link previews."
 header:
   teaser: your-photo.jpg   # in /media/diary/, shown in the entry list; also used as the featured video's poster
-  video: your-clip.mp4     # optional, in /media/diary/ - only set this on the entry you want featured with hover-to-play
+  video: your-clip.mp4     # optional, in /media/diary/ - only set this on the entry you want featured with hover-to-play (muted preview; full sound plays on the article page)
 tags:
   - lab-life
 published: false # change to true when ready to publish, then rename the file so its date prefix matches "date" above

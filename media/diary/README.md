@@ -11,3 +11,6 @@ header:
   teaser: 2024-04-15-vacuum-chamber.jpg   # shown in the entry list; also used as the featured video's poster
   video: 2024-04-15-plasma-plume.mp4      # optional, only set on the entry you want featured with hover-to-play
 ```
+
+The hover preview on the diary list plays muted; a video's own audio only plays once someone clicks
+through to the full article page.
