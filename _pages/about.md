@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Hello, I'm Nadine! I'm originally from Germany, where I did my undergraduate and master's studies in Aerospace Engineering at the University of Stuttgart. I'm now pursuing my PhD in Japan.
+
+You can find a full list of my papers under [Publications](/Research/publications/), the conferences and workshops I've presented at under [Academic Presentations](/Research/talks/), and a more personal, day-to-day look at what experimental life in the lab is actually like under my [Experimental Diary](/Research/experimental-diary/).
+
+Below you'll find a short introduction to my research and what I'm working on during my PhD.
+
 **Space Propulsion Systems**
 ------
 For over 60 years, humanity has pursued space exploration to better understand the universe, and gain insights into our solar system. The majority of satellites in Earth orbit, primarily serving purposes such as telecommunications, Earth observation, and navigation. Despite technological advancements, most satellites in orbit (approximately 60–70%) still rely on chemical propulsion systems, which are relatively inefficient due to their limited mass-specific power density $$\alpha$$:
