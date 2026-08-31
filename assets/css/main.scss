@@ -72,17 +72,14 @@
   z-index: 999999;
 }
 
-@media (max-width: 768px) {
-  /* Touch "hover" has no real off-state, so the abstract box would stay stuck
-     open after a tap instead of acting as a preview - disable it on phones
-     and let a tap on the title go straight to the publication page. */
+/* Touch "hover" has no real off-state, so the abstract box would stay stuck
+   open after a tap instead of acting as a preview - only reveal it on
+   pointer devices with real hover (i.e. not on phones/tablets), so a tap
+   on the title goes straight to the publication page instead. */
+@media (hover: hover) and (pointer: fine) {
   .hover-abstract:hover .hover-abstract-box {
-    display: none !important;
+    display: block;
   }
-}
-
-.hover-abstract:hover .hover-abstract-box {
-  display: block;
 }
 
 .archive__item {
