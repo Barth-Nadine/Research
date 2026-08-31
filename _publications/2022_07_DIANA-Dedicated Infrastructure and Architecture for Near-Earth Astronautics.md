@@ -6,7 +6,7 @@ permalink: /publication/2022-diana-lunar-base
 excerpt: "DIANA is an autonomously deployable lunar base concept for long-duration crewed missions on the Moon's surface, focusing on sustainability, ISRU, and scientific exploration."
 date: 2022-07-01
 venue: "51st International Conference on Environmental Systems (ICES) Conference Proceedings"
-paperurl: "https://ttu-ir.tdl.org/items/8afde684-775c-4c36-8121-f3141d9cb142"
+paperurl: "/Research/files/2022-diana-lunar-base.pdf"
 bibtexurl: "/Research/files/2022-diana-lunar-base.bib"
 citation: "Acker D, Gutierrez E, Pippert A, Barth N, Boettger J, Diamond M, Kugic A, Palacios Calatayud J, Modi P, Krein V, Khan SA. DIANA-Dedicated Infrastructure and Architecture for Near-Earth Astronautics. 51st International Conference on Environmental Systems (ICES). 07/2022."
 layout: single
