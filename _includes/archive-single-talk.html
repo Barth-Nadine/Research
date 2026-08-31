@@ -50,11 +50,15 @@
 	  </span>
 	{% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% if post.venue %}
+      <p>{{ post.type }} {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}} {{ post.venue }}  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.paperurl or post.slidesurl or post.bibtexurl %}
+      <p>
+        {% if post.paperurl %}<a href="{{ post.paperurl }}" class="btn btn--small">Download Paper</a>{% endif %}
+        {% if post.slidesurl %}<a href="{{ post.slidesurl }}" class="btn btn--small">Download Slides</a>{% endif %}
+        {% if post.bibtexurl %}<a href="{{ post.bibtexurl }}" class="btn btn--small">Download Bibtex</a>{% endif %}
+      </p>
+    {% endif %}
   </article>
 </div>
