@@ -1,6 +1,6 @@
 ---
 title: "Introducing Our Experimental Facility"
-date: 2026-09-05
+date: 2026-04-01
 permalink: /diary/introducing-our-facility/
 excerpt: "A first tour of our experimental facility: the pump room with its rotary pumps, mechanical booster pump and cooling tower, and the vacuum chamber room where we operate the thruster."
 header:
