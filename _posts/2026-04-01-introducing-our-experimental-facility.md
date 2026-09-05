@@ -14,12 +14,8 @@ For this first entry, I want to introduce the basic experimental equipment we us
 
 The first video shows our pump room. In it you can see the two rotary pumps (RP) and the mechanical booster pump (MBP) that we use for roughing and backing the vacuum system, as well as the cooling tower we use to keep the pumps cool during operation.
 
-<video controls style="max-width:100%;">
-  <source src="/Research/media/diary/Experimental_Pumproom.mp4" type="video/mp4">
-</video>
+{% include diary-video.html file="Experimental_Pumproom" %}
 
 The second video introduces the vacuum chamber room itself, where you can see the diffusion pump (DP) connection to the chamber, the area where we actually operate the thruster, and our general experimental setup.
 
-<video controls style="max-width:100%;">
-  <source src="/Research/media/diary/Experimental_Room.mp4" type="video/mp4">
-</video>
+{% include diary-video.html file="Experimental_Room" %}

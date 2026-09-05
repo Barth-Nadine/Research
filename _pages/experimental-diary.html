@@ -30,6 +30,8 @@ author_profile: true
         {% assign video_src = featured.header.video %}
       {% else %}
         {% assign video_src = featured.header.video | prepend: "/media/diary/" | prepend: base_path %}
+        {% assign video_basename = featured.header.video | remove: ".mp4" %}
+        {% assign auto_poster = site.static_files | where_exp: "f", "f.basename == video_basename" | where_exp: "f", "f.path contains '/media/diary/'" | where_exp: "f", "f.extname != '.mp4'" | first %}
       {% endif %}
       {% if featured.header.teaser %}
         {% if featured.header.teaser contains "://" %}
@@ -37,6 +39,8 @@ author_profile: true
         {% else %}
           {% assign poster_src = featured.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
         {% endif %}
+      {% elsif auto_poster %}
+        {% assign poster_src = auto_poster.path | prepend: base_path %}
       {% endif %}
       <video class="diary-hero__media" muted loop playsinline preload="metadata"
         {% if poster_src %}poster="{{ poster_src }}"{% endif %}>

@@ -16,6 +16,4 @@ The video below shows a timelapse of the reassembly. The connections were made u
 
 This means the cathode is now safely back in the chamber and ready for the next experiment!
 
-<video controls style="max-width:100%;">
-  <source src="/Research/media/diary/2026-08-31-reassembling-cathode.mp4" type="video/mp4">
-</video>
+{% include diary-video.html file="2026-08-31-reassembling-cathode" %}

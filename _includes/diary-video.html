@@ -1,0 +1,6 @@
+{% include base_path %}
+{% assign video_name = include.file %}
+{% assign poster_file = site.static_files | where_exp: "f", "f.basename == video_name" | where_exp: "f", "f.path contains '/media/diary/'" | where_exp: "f", "f.extname != '.mp4'" | first %}
+<video controls style="max-width:100%;"{% if poster_file %} poster="{{ base_path }}{{ poster_file.path }}"{% endif %}>
+  <source src="{{ base_path }}/media/diary/{{ video_name }}.mp4" type="video/mp4">
+</video>
