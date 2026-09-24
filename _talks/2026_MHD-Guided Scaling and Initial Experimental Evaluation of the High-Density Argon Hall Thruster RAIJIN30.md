@@ -7,6 +7,7 @@ excerpt: "MHD-guided geometric scaling of the RAIJIN66 thruster into the high-de
 date: 2026-09-22
 venue: "Presented at ISAPS '26, Prague"
 paperurl: '/Research/files/2026-ISAPS-extended-abstract.pdf'
+paperlabel: "Download Extended Abstract"
 citation: "Barth, N., Komurasaki, K., Satpathy, D., Lee, J., Matsukura, M., & Koizumi, H. MHD-Guided Scaling and Initial Experimental Evaluation of the High-Density Argon Hall Thruster RAIJIN30. ISAPS '26, Prague. 2026, September."
 layout: single
 abstract: 'Increasing plasma density is a key approach for improving the performance of Hall thrusters operating with alternative propellants such as argon, where propellant utilization is limited by reduced ionization efficiency. Higher neutral and electron densities increase ionization rates and can improve propellant utilization, enabling higher thrust densities compared with conventional operating conditions. One approach to increase plasma density is to reduce the channel cross sectional area while maintaining comparable propellant mass flow rates.'
