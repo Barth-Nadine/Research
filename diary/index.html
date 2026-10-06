@@ -29,15 +29,15 @@ author_profile: true
       {% if featured.header.video contains "://" %}
         {% assign video_src = featured.header.video %}
       {% else %}
-        {% assign video_src = featured.header.video | prepend: "/media/diary/" | prepend: base_path %}
+        {% assign video_src = featured.header.video | prepend: "/diary/media/" | prepend: base_path %}
         {% assign video_basename = featured.header.video | remove: ".mp4" %}
-        {% assign auto_poster = site.static_files | where_exp: "f", "f.basename == video_basename" | where_exp: "f", "f.path contains '/media/diary/'" | where_exp: "f", "f.extname != '.mp4'" | first %}
+        {% assign auto_poster = site.static_files | where_exp: "f", "f.basename == video_basename" | where_exp: "f", "f.path contains '/diary/media/'" | where_exp: "f", "f.extname != '.mp4'" | first %}
       {% endif %}
       {% if featured.header.teaser %}
         {% if featured.header.teaser contains "://" %}
           {% assign poster_src = featured.header.teaser %}
         {% else %}
-          {% assign poster_src = featured.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
+          {% assign poster_src = featured.header.teaser | prepend: "/diary/media/" | prepend: base_path %}
         {% endif %}
       {% elsif auto_poster %}
         {% assign poster_src = auto_poster.path | prepend: base_path %}
@@ -50,7 +50,7 @@ author_profile: true
       {% if featured.header.teaser contains "://" %}
         {% assign img_src = featured.header.teaser %}
       {% else %}
-        {% assign img_src = featured.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
+        {% assign img_src = featured.header.teaser | prepend: "/diary/media/" | prepend: base_path %}
       {% endif %}
       <img class="diary-hero__media" src="{{ img_src }}" alt="{{ featured.title | markdownify | strip_html }}">
     {% endif %}
@@ -71,7 +71,7 @@ author_profile: true
             {% if post.header.teaser contains "://" %}
               {% assign card_img = post.header.teaser %}
             {% else %}
-              {% assign card_img = post.header.teaser | prepend: "/media/diary/" | prepend: base_path %}
+              {% assign card_img = post.header.teaser | prepend: "/diary/media/" | prepend: base_path %}
             {% endif %}
             <div class="diary-card__media" style="background-image:url('{{ card_img }}');"></div>
           {% endif %}

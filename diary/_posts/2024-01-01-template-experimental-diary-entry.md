@@ -3,8 +3,8 @@ title: "Entry title goes here"
 date: 2024-01-01
 excerpt: "One or two sentences summarizing the entry - this is what shows in the diary list and link previews."
 header:
-  teaser: your-photo.jpg   # in /media/diary/, shown in the entry list
-  video: your-clip.mp4     # optional, in /media/diary/ - only set this on the entry you want featured with hover-to-play (muted preview; full sound plays on the article page)
+  teaser: your-photo.jpg   # in /diary/media/, shown in the entry list
+  video: your-clip.mp4     # optional, in /diary/media/ - only set this on the entry you want featured with hover-to-play (muted preview; full sound plays on the article page)
 tags:
   - lab-life
 published: false # change to true when ready to publish, then rename the file so its date prefix matches "date" above
@@ -12,7 +12,7 @@ published: false # change to true when ready to publish, then rename the file so
 
 Write the entry here in plain Markdown. A short paragraph, then as many pictures and videos as you like:
 
-![Caption for the photo](/Research/media/diary/your-photo.jpg)
+![Caption for the photo](/Research/diary/media/your-photo.jpg)
 
 {% include diary-video.html file="your-clip" %}
 
@@ -28,5 +28,5 @@ Notes on the "date":
 
 Notes on video posters:
 - `{% include diary-video.html file="your-clip" %}` automatically uses `your-clip.jpg` (or .png/.jpeg/.webp)
-  as the poster image if a file with that exact same base name exists in /media/diary/ - no front matter
+  as the poster image if a file with that exact same base name exists in /diary/media/ - no front matter
   needed, just give the image and video matching filenames.
