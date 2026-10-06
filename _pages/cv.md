@@ -19,6 +19,7 @@ Honors and Achievements
 * 2022: Recipient of the Hermann Reissner Scholarship for my exchange semester at the University of Tokyo, Japan
 * 2024: Recipient of the MEXT Scholarship for PhD studies at the University of Tokyo
 * 2025: Recipient of the ESA Academy sponsorship to attend the International Electric Propulsion Conference (IEPC) in London 2025
+* 2026: Accepted for the JSPS Research Fellowship for Young Scientists (DC2) / 日本学術振興会 特別研究員 (DC2), starting April 2027
 
 ----
 
