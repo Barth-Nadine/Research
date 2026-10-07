@@ -1,6 +1,8 @@
 ---
 title: "Reassembling the Thrust Stand and Preparing the Chamber"
 date: 2026-10-05
+redirect_from:
+  - /diary/reassembling-the-thrust-stand/
 excerpt: "Chamber Setup Part 1"
 header:
   video: 2026-10-05-thruststandassembly.mp4
